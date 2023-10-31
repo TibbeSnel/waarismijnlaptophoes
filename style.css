@@ -1,0 +1,13 @@
+body {
+    background-image: url("laptophoes.png");
+    background-repeat: repeat;
+    text-align: left;
+    color: transparent;
+    background-size: 40%;
+}
+
+h1 {
+    color: black;
+    font-size: 175px;
+    margin: 0px;
+}
